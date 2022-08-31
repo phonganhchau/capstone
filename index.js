@@ -20,6 +20,7 @@ p1.onclick = function (){
     hr2.style.backgroundColor = "#2C303857"
     three.style.color = "#4E5B61"
     hr3.style.backgroundColor = "#2C303857"
+    
 }
 p2.onclick = function (){
     pro2.style.display = "flex"
